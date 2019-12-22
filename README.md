@@ -7,7 +7,7 @@
 
     Based on version 2.92.14 [UCOS-II Port to Linux](https://github.com/jcdubois/uCOS-II)
 
-    Port based on the port of uC/OS-II to STM32746G
+    Port based on the [uC/OS-II Port to STM3232746G](https://www.micrium.com/download/stm32746g-proto_os2/)
 
 ### Main points
 
